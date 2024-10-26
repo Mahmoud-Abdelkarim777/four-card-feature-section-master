@@ -37,10 +37,10 @@ body{
     color: var(--Very-Dark-Blue);
 }
 .header .txt{
-    font-size: 15px;
+    font-size: 13.7px;
     font-weight: 200;
     color: var(--Very-Dark-Blue);
-    width: 42%;
+    width: 35%;
 }
 @media  (max-width: 768px){
     .header .txt{
